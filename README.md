@@ -8,7 +8,7 @@ npm -> 10.8.1
 
 ## **Clone & Install Dependency**
 
-Clone the project.
+Clone the project. dost
 
 ```bash
 git clone https://github.com/prathamesh-2402/library-management-frontend.git
